@@ -2,3 +2,4 @@ git init : initialising a git repository locally(from start,scratch)
 git add filename : adding to staging area
 git commit -m "msg" : committing to git
 git add -A : adding all untracked / unstaged files to staging area
+git checkout filename/-f : moves back a commit not the saved one
