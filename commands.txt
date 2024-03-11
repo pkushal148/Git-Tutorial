@@ -7,5 +7,5 @@ git log : logs of all commits
 git diff : all files in present saved state compare to the staging area(if staged then no output )
 git diff --staged : all files in staging area compared to previous commit
 git commit -a -m "msg" : skipping staged area amd direct commit
-git rm --cached filename : removes a file from committed and moves into a staging area
-git rm filename : removes a file permannently from disk
+git rm --cached filename : removes a file from committed and moves into a staging area (but sill present in log)
+git rm filename : removes a file permannently from disk (but sill present in log)
