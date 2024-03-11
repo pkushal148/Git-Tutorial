@@ -9,3 +9,4 @@ git diff --staged : all files in staging area compared to previous commit
 git commit -a -m "msg" : skipping staged area amd direct commit
 git rm --cached filename : removes a file from committed and moves into a staging area (but sill present in log)
 git rm filename : removes a file permannently from disk (but sill present in log)
+git status -s : denote all modified files
