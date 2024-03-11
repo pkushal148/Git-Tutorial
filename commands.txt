@@ -1,0 +1,1 @@
+git init : initialising a git repository locally(from start,scratch)
