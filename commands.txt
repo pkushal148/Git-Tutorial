@@ -11,3 +11,5 @@ git rm --cached filename : removes a file from committed and moves into a stagin
 git rm filename : removes a file permannently from disk (but sill present in log)
 git status -s : denote all modified files
 .gitignore : add file names in this file they will not be tracked
+git branch name : creates new branch with given name
+git checkout branchName : swithces to new branch 
