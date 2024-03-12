@@ -16,3 +16,4 @@ git checkout branchName : swithces to new branch
 git merge branchName : from master , merge the branch so ultimate chnages in branchName reflects in master
 git checkout -b branchName : create and switch to a new branch
 always create new branches
+git remote add origin link : add local to remote repo with the given link
