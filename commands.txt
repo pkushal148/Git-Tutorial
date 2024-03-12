@@ -19,3 +19,4 @@ always create new branches
 git remote add origin link : add local to remote repo with the given link
 git push -u origin master : pushes to master branch
 git remote set-url origin link : changes the link to new
+git clone link : get remote to local
